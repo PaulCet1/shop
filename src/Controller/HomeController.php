@@ -16,4 +16,5 @@ class HomeController {
     public function index(){
         die("Home");
     }
+   
 }
